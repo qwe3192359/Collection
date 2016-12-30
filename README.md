@@ -51,3 +51,39 @@
 * [阮一峰](http://www.ruanyifeng.com/)
 * [CSS魔法](http://www.cssmagic.net/)
 * [杜瑶](http://www.doyoe.com/)
+
+前端博客
+
+* [w3cplus](http://www.w3cplus.com/)
+* [博客园](http://www.cnblogs.com/)
+* [百度前端](http://fex.baidu.com/)
+* [腾讯前端](http://alloyteam.github.io/)
+
+教学视频
+
+* [慕课网](http://www.imooc.com/)
+* [菜鸟教程](http://www.runoob.com/)
+* [百度前端学院](http://ife.baidu.com/task/all)
+
+资源汇总
+
+* [JS前端开发群](http://www.kancloud.cn/jikeytang/qq/87646)
+* [腾讯移动Web前端知识库](https://github.com/AlloyTeam/Mars)
+* [前端技能汇总](https://github.com/JacksonTian/fks)
+* [前端资源汇总](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
+* [前端知识整理（面试）](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Questions-and-Answers)
+* [H5项目常见问题汇总及解决方案](https://github.com/FrontEndZQ/HTML5-FAQ)
+* [前端书籍推荐](https://github.com/jobbole/awesome-web-dev-books)
+* [css做的按钮](http://simurai.com/archive/buttons/)
+
+UI框架
+
+* [bootstrap](http://v3.bootcss.com/css/)
+* [Materialize](http://www.materialscss.com/)
+
+JS框架
+
+* [AngularJS 指令](http://www.runoob.com/angularjs/angularjs-reference.html)
+* [ECMAScript 6入门](http://es6.ruanyifeng.com/)
+* [VUE](http://cn.vuejs.org/)
+* [react](http://react-china.org/)

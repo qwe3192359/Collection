@@ -26,6 +26,27 @@
 
 ### 前端
 
+个人博客
+
+* [张鑫旭](http://www.zhangxinxu.com/)
+* [廖雪峰](http://www.liaoxuefeng.com/)
+* [阮一峰](http://www.ruanyifeng.com/)
+* [CSS魔法](http://www.cssmagic.net/)
+* [杜瑶](http://www.doyoe.com/)
+
+前端社区
+
+* [w3cplus](http://www.w3cplus.com/)
+* [博客园](http://www.cnblogs.com/)
+* [百度前端](http://fex.baidu.com/)
+* [腾讯前端](http://alloyteam.github.io/)
+
+MOOC
+
+* [慕课网](http://www.imooc.com/)
+* [菜鸟教程](http://www.runoob.com/)
+* [百度前端学院](http://ife.baidu.com/task/all)
+
 工具
 
 * [百度脑图](http://naotu.baidu.com/home)
@@ -43,27 +64,6 @@
 * [selectivizr（让IE6~8支持CSS3伪类和属性选择器 ）](https://github.com/keithclark/selectivizr)
 * [toastr](https://github.com/CodeSeven/toastr)
 * [artDialog（模态对话框）](https://github.com/aui/artDialog)
-
-个人博客
-
-* [张鑫旭](http://www.zhangxinxu.com/)
-* [廖雪峰](http://www.liaoxuefeng.com/)
-* [阮一峰](http://www.ruanyifeng.com/)
-* [CSS魔法](http://www.cssmagic.net/)
-* [杜瑶](http://www.doyoe.com/)
-
-前端博客
-
-* [w3cplus](http://www.w3cplus.com/)
-* [博客园](http://www.cnblogs.com/)
-* [百度前端](http://fex.baidu.com/)
-* [腾讯前端](http://alloyteam.github.io/)
-
-教学视频
-
-* [慕课网](http://www.imooc.com/)
-* [菜鸟教程](http://www.runoob.com/)
-* [百度前端学院](http://ife.baidu.com/task/all)
 
 资源汇总
 

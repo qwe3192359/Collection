@@ -87,3 +87,9 @@ JS框架
 * [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 * [VUE](http://cn.vuejs.org/)
 * [react](http://react-china.org/)
+
+编码规范
+
+* [编码规范](http://codeguide.bootcss.com/)
+* [腾讯编码规范](http://alloyteam.github.io/CodeGuide/)
+* [腾讯移动开发规范](http://alloyteam.github.io/Spirit/modules/Standard/index.html#font)

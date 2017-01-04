@@ -1,28 +1,5 @@
 
-#### 自己收藏的一些网址
-### UI
-
-案例
-
-* [花瓣](http://huaban.com/)
-* [站酷](http://www.zcool.com.cn/)
-* [UI中国](http://www.ui.cn/)
-
-素材
-
-* [千图网](http://www.58pic.com/)
-* [素材天下](http://www.sucaitianxia.com/)
-
-工具/插件
-
-* [矢量设计工具](http://www.sketchcn.com/)
-* [标注切图](http://www.fancynode.com.cn/pxcook/home)
-* [切图工具](http://www.cutterman.cn/)
-
-其他
-
-* [设计导航](http://hao.shejidaren.com/) 
-* [腾讯ISUX](https://isux.tencent.com/) 
+#### 自己收藏的一些网址 
 
 ### 前端
 
@@ -49,7 +26,6 @@ MOOC
 
 工具
 
-* [百度脑图](http://naotu.baidu.com/home)
 * [阿里巴巴矢量图标库](http://www.iconfont.cn/)
 * [JS压缩](http://dean.edwards.name/packer/)
 * [反压缩](http://jsbeautifier.org/)
@@ -93,3 +69,38 @@ JS框架
 * [编码规范](http://codeguide.bootcss.com/)
 * [腾讯编码规范](http://alloyteam.github.io/CodeGuide/)
 * [腾讯移动开发规范](http://alloyteam.github.io/Spirit/modules/Standard/index.html#font)
+
+### UI
+
+案例
+
+* [花瓣](http://huaban.com/)
+* [站酷](http://www.zcool.com.cn/)
+* [UI中国](http://www.ui.cn/)
+
+素材
+
+* [千图网](http://www.58pic.com/)
+* [素材天下](http://www.sucaitianxia.com/)
+
+工具/插件
+
+* [矢量设计工具](http://www.sketchcn.com/)
+* [标注切图](http://www.fancynode.com.cn/pxcook/home)
+* [切图工具](http://www.cutterman.cn/)
+
+其他
+
+* [设计导航](http://hao.shejidaren.com/) 
+* [腾讯ISUX](https://isux.tencent.com/)
+
+### 其他
+
+* [百度脑图](http://naotu.baidu.com/home)
+* [百度浏览器份额统计](http://tongji.baidu.com/data/browser)
+* [编号生成器（身份证号码、营业执照注册号、组织机构代码、统一社会信用代码、手机号码、银行卡账号）](http://xatom.coding.me/generator/)
+* [在线制作PPT](http://www.ipresst.com/)
+* [在线编辑markdown文档](http://mahua.jser.me/)
+* []()
+* []()
+* []()

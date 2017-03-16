@@ -22,7 +22,7 @@ MOOC
 
 * [慕课网](http://www.imooc.com/)
 * [菜鸟教程](http://www.runoob.com/)
-* [百度前端学院](http://ife.baidu.com/task/all)
+* [百度前端学院](http://ife.baidu.com/)
 
 工具
 
@@ -72,14 +72,11 @@ JS框架
 
 ### UI
 
-案例
+素材
 
 * [花瓣](http://huaban.com/)
 * [站酷](http://www.zcool.com.cn/)
 * [UI中国](http://www.ui.cn/)
-
-素材
-
 * [千图网](http://www.58pic.com/)
 * [素材天下](http://www.sucaitianxia.com/)
 
@@ -88,11 +85,16 @@ JS框架
 * [矢量设计工具](http://www.sketchcn.com/)
 * [标注切图](http://www.fancynode.com.cn/pxcook/home)
 * [切图工具](http://www.cutterman.cn/)
+* [imageoptim（压缩图片）](https://imageoptim.com/mac)
+* [UI常见尺寸](http://chicun.jammy.cc/)
 
 其他
 
 * [设计导航](http://hao.shejidaren.com/) 
 * [腾讯ISUX](https://isux.tencent.com/)
+* [百度](http://uxc.baidu.com/)
+* [网易](http://uedc.163.com/)
+* [阿里巴巴](http://www.aliued.cn/)
 
 ### 其他
 

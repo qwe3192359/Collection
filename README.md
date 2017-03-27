@@ -106,3 +106,8 @@ JS框架
 * []()
 * []()
 * []()
+
+### ES6
+* [学习ES6新特性](http://www.cnblogs.com/ziyunfei/)
+* [读懂 es6](https://leanpub.com/understandinges6)
+* [阮一峰 es6入门](http://es6.ruanyifeng.com/)

@@ -3,7 +3,7 @@
 
 ### 前端
 
-个人博客1111
+大神博客
 
 * [张鑫旭](http://www.zhangxinxu.com/)
 * [廖雪峰](http://www.liaoxuefeng.com/)
@@ -14,15 +14,18 @@
 前端社区
 
 * [w3cplus](http://www.w3cplus.com/)
-* [博客园](http://www.cnblogs.com/)
-* [百度前端](http://fex.baidu.com/)
-* [腾讯前端](http://alloyteam.github.io/)
+* [W3CTech](https://www.w3ctech.com/)
+* [Div.io](http://div.io/)
+* [segmentfault](https://segmentfault.com/)
+* [前端周刊](http://www.feweekly.com/)
+* []()
+* []()
 
 MOOC
 
 * [慕课网](http://www.imooc.com/)
 * [菜鸟教程](http://www.runoob.com/)
-* [百度前端学院](http://ife.baidu.com/)
+* [优达学城](http://cn.udacity.com/)
 
 工具
 

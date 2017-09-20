@@ -4,7 +4,6 @@
 ### 前端
 
 大神博客
-* []()
 * [张鑫旭（偏css）](http://www.zhangxinxu.com/)
 * [练小习（偏css）](https://www.chengrang.com/)
 * [coco（偏css）](http://www.cnblogs.com/coco1s/)

@@ -4,28 +4,56 @@
 ### 前端
 
 大神博客
-
-* [张鑫旭](http://www.zhangxinxu.com/)
+* []()
+* [张鑫旭（偏css）](http://www.zhangxinxu.com/)
+* [练小习（偏css）](https://www.chengrang.com/)
+* [coco（偏css）](http://www.cnblogs.com/coco1s/)
 * [廖雪峰](http://www.liaoxuefeng.com/)
 * [阮一峰](http://www.ruanyifeng.com/)
-* [CSS魔法](http://www.cssmagic.net/)
 * [杜瑶](http://www.doyoe.com/)
 
 前端社区
-
 * [w3cplus](http://www.w3cplus.com/)
-* [W3CTech](https://www.w3ctech.com/)
 * [Div.io](http://div.io/)
-* [segmentfault](https://segmentfault.com/)
 * [前端周刊](http://www.feweekly.com/)
-* []()
-* []()
 
-MOOC
+问答社区：
+* [W3CTech](https://www.w3ctech.com/)
+* [segmentfault](https://segmentfault.com/)
 
+百度
+* [Web 前端研发部](http://fex.baidu.com/)
+* [百度前端技术体系](http://efe.baidu.com/)
+
+腾讯前端
+* [腾讯Web前端团队](http://www.alloyteam.com/)
+* [腾讯前端研发中心](http://qqfe.org/)
+
+阿里
+* [淘宝前端团队](http://taobaofed.org/)
+* [天猫前端](http://tmallfe.github.io/)
+
+360
+* [齐舞团](https://75team.com/)
+
+携程
+* [携程设计委员会](http://ued.ctrip.com/blog/)
+
+京东
+* [凹凸实验室](https://aotu.io/)
+
+教程
+* [MDN](https://developer.mozilla.org/zh-CN/)
 * [慕课网](http://www.imooc.com/)
 * [菜鸟教程](http://www.runoob.com/)
 * [优达学城](http://cn.udacity.com/)
+* [w3chool](http://www.w3school.com.cn/)
+* [百度前端学院](http://ife.baidu.com/)
+
+开源书籍
+* [css揭秘](https://github.com/cssmagic/CSS-Secrets)
+* [ES6标准入门](http://es6.ruanyifeng.com/)
+* [你不知道的JavaScript](https://github.com/JoeHetfield/You-Dont-Know-JS)
 
 工具
 

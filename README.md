@@ -133,8 +133,8 @@ JS框架
 * [编号生成器（身份证号码、营业执照注册号、组织机构代码、统一社会信用代码、手机号码、银行卡账号）](http://xatom.coding.me/generator/)
 * [在线制作PPT](http://www.ipresst.com/)
 * [在线编辑markdown文档](http://mahua.jser.me/)
-* []()
-* []()
+* [语雀](https://yuque.com/)
+* [mock](http://mockjs.com/)
 * []()
 
 ### ES6
